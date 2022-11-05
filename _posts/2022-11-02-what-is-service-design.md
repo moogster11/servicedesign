@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Johns first service design post"
+title: "What is Service Design"
 categories: misc
 ---
 
