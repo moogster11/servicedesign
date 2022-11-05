@@ -7,7 +7,7 @@ permalink: /G4test/
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 [health][health]
-[health][health.md]
+[health](health.md](https://moogster11.github.io/servicedesign/health.md)
 
 <a href="./health.md">
 <a href="https://moogster11.github.io/servicedesign/health.md">
