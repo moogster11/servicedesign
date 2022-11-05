@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: G4test
 permalink: /G4test/
 ---
 
