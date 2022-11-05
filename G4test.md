@@ -4,6 +4,10 @@ title: G4test
 permalink: /G4test/
 ---
 
-<a href="https://moogster11.github.io/servicedesign/health">Health</a>
+<a href="https://moogster11.github.io/servicedesign/health">Mental health support</a>
+
+<a href="https://moogster11.github.io/servicedesign/drugs">Drug support</a>
+
+<a href="https://moogster11.github.io/servicedesign/spice">Spice support</a>
 
 
