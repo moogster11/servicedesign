@@ -9,6 +9,8 @@ This is the base Jekyll theme. You can find out more info about customizing your
 [health][health]
 [health][health.md]
 
+<a href="./health.md">
+<a href="https://moogster11.github.io/servicedesign/health.md">
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
